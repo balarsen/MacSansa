@@ -1,0 +1,12 @@
+I just got a SanDisk sansa clip zip and was annoyed that my Mac wasn't really able to worh with it.  That is going to change.
+
+This project is meant to ease the process of making playlists and uploading to the sansa.  
+
+Written in Python with a Qt gui frontend it handles copy, filtering, and playlist creation.
+
+Current Status:
+- 12 July 2012 
+Just a dream. A vision but no code at all.
+
+
+
